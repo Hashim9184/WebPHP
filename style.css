@@ -1,0 +1,46 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.nav-link{
+    color: #fff;
+    font-size: 14px;
+    font-weight: bold;
+    text-transform: uppercase;
+    padding: 10px;
+    text-decoration: none;
+}
+.nav-link:hover{
+    background: #fff;
+    color: #000;
+}
+.nav-link:active{
+    background: #fff;
+    color: #000;
+}
+.nav-link:focus{
+    background: #fff;
+    color: #000;
+}
+.main_div{
+    justify-content: center;
+    align-items: center;
+    margin-top: 10vh;
+}
+.intro{
+    height: 92vh;
+    width: 100%; 
+    margin-top: 8vh;
+}
+/* .Feedback{
+    height: 92vh;
+    width: 100%;
+    margin-top: 20vh;
+} */
+section{
+    height: 100vh;
+    width: 100%;
+}
+.form-group{
+    margin-top: 2vh;
+}
